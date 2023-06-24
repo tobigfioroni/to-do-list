@@ -1,2 +1,5 @@
 # to-do-list
-task list app without local storage (to be added later)
+Task list app without local storage (to be added later).
+<br>
+![to-do-app](assets/to-do-app.png)
+<br><br>
